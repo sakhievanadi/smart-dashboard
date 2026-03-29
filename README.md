@@ -7,7 +7,7 @@ An interactive, high-performance control panel for Smart Home systems. This proj
 - **[Live Demo](https://github.com/sakhievanadi)**
 - **[Original Design (Figma)](https://www.figma.com/design/Cdg0yeLxAoGvlQnS0pUkL6/Smart-home-dashboard-free-light--Community-?t=DJM8p6X7gOQtjQfA-0)**
 
-# I paid special attention to the UI/UX details to make the dashboard feel "alive":
+## I paid special attention to the UI/UX details to make the dashboard feel "alive":
 - **Smooth "Drop" Navigation:** a custom-built sidebar indicator that physically slides between items using advanced CSS transitions.
 - **Dynamic Icon State Management:** smart color-shifting for icons using CSS filters and opacity transitions.
 - **Responsive Layout:** built with a "flex-first" approach for adaptability across different screen resolutions.
