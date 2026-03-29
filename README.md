@@ -23,8 +23,3 @@ The project is currently in active development. Planned features:
 - [ ] **Data Visualization:** energy consumption charts using Chart.js or D3.js.
 - [ ] **Dark Mode:** a sleek night-theme variant.
 - [ ] **Real-time Weather Integration:** fetching local data via OpenWeather API.
-
-## Local Develop
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/smart-home-dashboard.git](https://github.com/YOUR_USERNAME/smart-home-dashboard.git)
