@@ -13,9 +13,9 @@ An interactive, high-performance control panel for Smart Home systems. This proj
 - **Responsive Layout:** built with a "flex-first" approach for adaptability across different screen resolutions.
 
 ## Tech Stack
-- **HTML5:**
-- **CSS3:**
-- **JavaScript (ES6+):**
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6+)**
 
 ## Project Roadmap
 The project is currently in active development. Planned features:
